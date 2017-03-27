@@ -1,0 +1,6 @@
+framework module login_swift {
+  umbrella header "login_swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

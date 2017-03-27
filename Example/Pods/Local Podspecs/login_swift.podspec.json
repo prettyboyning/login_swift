@@ -1,0 +1,22 @@
+{
+  "name": "login_swift",
+  "version": "0.1.0",
+  "summary": "A short description of login_swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/宁留杰/login_swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "宁留杰": "ningliujie@zbj.com"
+  },
+  "source": {
+    "git": "https://github.com/宁留杰/login_swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "login_swift/Classes/**/*"
+}
